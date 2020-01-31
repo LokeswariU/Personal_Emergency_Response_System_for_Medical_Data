@@ -2,7 +2,7 @@
 # An effective cloud based personal emergency response system by providing privacy protection for the medical data
 > Published URL:
 [https://www.sciencepubco.com/index.php/ijet/article/view/14165]
-* 
+
 * Timely access to the emergency medical services is challenging tasks due to the increasing percentage of population. Especially * prehospital emergency situations are neglected for quite a long time. 
 * The agglomeration of medical gadgets and other system applications that bridges the gap to healthcare IT systems through Internet or computer networks is placed under the domain (IoMT) Internet Of Medical Things . 
 * In this project an efficient medical data monitoring and an emergency response*  system has been developed. IoT in healthcare is made to bridge the gap by providing the connectivity through internet making sure that the information is secured and available on the timely access. 
